@@ -1,6 +1,6 @@
 {
   "name": "scare-phillip",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Phillip's worst nightmare. Designed for use in interviews.",
   "main": "scare-phillip.js",
   "scripts": {},
@@ -11,7 +11,8 @@
   "keywords": [
     "hack-reactor",
     "shellscript",
-    "terror"
+    "terror",
+    "juhquery"
   ],
   "author": "Katherine Gilhooley <k.gilhooley@gmail.com> (http://katherinegilhooley.com/)",
   "license": "MIT",
