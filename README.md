@@ -1,7 +1,7 @@
 Scare Phillip.
 ========
 
-Phillip's worst nightmare, now tidily packaged and optimized for use in lectures or (ideally) interviews.
+Phillip's worst nightmare, now tidily packaged and optimized for use during lectures at Hack Reactor or (ideally) interviews.
 
 ## Getting started
 Download
