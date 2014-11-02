@@ -1,0 +1,21 @@
+{
+  "name": "scare-phillip",
+  "version": "0.1.0",
+  "description": "Phillip's worst nightmare. Designed for use in interviews.",
+  "main": "scare-phillip.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "{}"
+  },
+  "keywords": [
+    "hack",
+    "reactor",
+    "shellscript"
+  ],
+  "author": "Katherine Gilhooley <k.gilhooley@gmail.com> (http://katherinegilhooley.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "j-shellscript": "^0.1.0"
+  }
+}
