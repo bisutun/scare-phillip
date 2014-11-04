@@ -1,12 +1,12 @@
 {
   "name": "scare-phillip",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Phillip's worst nightmare. Designed for use in interviews.",
   "main": "scare-phillip.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/bisutun/scare-phillip.git"
+    "url": "git://github.com/gilhooley/scare-phillip.git"
   },
   "keywords": [
     "hack-reactor",
